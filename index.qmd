@@ -1,0 +1,107 @@
+---
+title: "How to contribute to open projects and communities"
+author: "Yani Bellini Saibene"
+format: 
+  revealjs:
+    theme: [default, stilos.scss]
+    footer: repo de esta charla 
+    logo: ropensci.svg
+    slide-number: c/t
+---
+
+## Path for today
+
+* What a contribution is for a open source project
+* ...and for a community?
+* Examples with rOpenSci
+* How I can help people to contribute to my package?
+
+## Contributions {.winter}
+
+
+When you listen "Made a **contribution** to an open source project or community"
+
+What comes to your mind?
+
+
+# From a community perspective
+
+We have some models of participation
+
+
+## Pathway To Inclusion
+
+### Six steps from "never heard of it" to "this is my thing"
+
+::: {.incremental}
+
+* **Awareness**: I've heard of this. 
+* **Understanding**:  I understand what this is,and what it might be like for me to be involved.
+* **Identification**: I can imagine myself doing this. 
+* **Access**: I can physically, logistically, and financially do this. 
+* **Belonging**: I feel like I fit in here.
+* **Ownership**: I care enough to take responsibility for this.
+
+:::
+
+::: footer
+[Pathway To Inclusion by Alex Bayley](https://www.harihareswara.net/posts/2022/the-pathway-to-inclusion-insight-from-alex-bayley/) 
+:::
+
+## Pathway To Inclusion {.winter}
+
+::: {.incremental}
+At what stage are you with rOpenSci ?
+
+Can you give examples for other communities or projects that you are part and in what stage are you?
+
+How long did it take you to move from one state to another ?
+:::
+
+::: footer
+[Pathway To Inclusion by Alex Bayley](https://www.harihareswara.net/posts/2022/the-pathway-to-inclusion-insight-from-alex-bayley/) 
+:::
+
+## CSCCE Community Participation Model
+
+::: {.incremental}
+
+* **Convey/Consume**: the CM convey information for members to consume independently of one another.
+* **Contribute**: invited/facilitated by the CM. Enables members to discover the skills and interest of other. Made knowledge more visible.
+* **Collaborate**: members collaborate with one another. 
+* **Co-create**: members work together within the community to co-create something they couldn't do before. 
+
+:::
+
+::: footer
+[CSCCE Community Participation Model](https://www.cscce.org/resources/cpm/) 
+:::
+
+
+## CSCCE Community Participation Model {.winter}
+
+::: {.incremental}
+
+Where you would you put the Champions Program?
+
+:::
+
+
+## CSCCE Community Participation Model
+
+Champions program are usually in all the spectrum
+
+Examples of champion-ing activities
+
+* **Convey**: they post on social media to spread the word more widely
+
+* **Contribute**: they invite others to attend a local event;
+
+* **Collaborate**: they host a community call;
+
+* **Co-create**: they run trainings or other activities for others in the community
+
+::: footer
+[CSCCE Community Participation Model](https://www.cscce.org/resources/cpm/) 
+:::
+
