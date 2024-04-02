@@ -176,7 +176,11 @@ Personal preferences in a contributing guide include:
 
 * Workflow preferences? Issue before a PR?
 
+* Describe how you acknowledge contributions. 
+
 * A scope statement, like in the [skimr](https://github.com/ropensci/skimr/blob/main/.github/CONTRIBUTING.md#understanding-the-scope-of-skimr) package?
 
-* We encourages contributing guides to include a lifecycle statement clarifying visions and expectations for the future development of your package.
+* We encourages contributing guides to include a [lifecycle statement clarifying visions and expectations](https://github.com/ecohealthalliance/fasterize/blob/main/CONTRIBUTING.md#roadmap) for the future development of your package.
+
+## Issue management
 
