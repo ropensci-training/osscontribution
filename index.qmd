@@ -19,9 +19,9 @@ format:
 ## Contributions {.winter}
 
 
-When you listen "Made a **contribution** to an open source project or community"
+When you listen "Made a **contribution** to an open source project or community"...
 
-What comes to your mind?
+...what comes to your mind?
 
 
 # From a community perspective
@@ -51,11 +51,13 @@ We have some models of participation
 ## Pathway To Inclusion {.winter}
 
 ::: {.incremental}
-At what stage are you with rOpenSci ?
+
+At what stage are you with rOpenSci?
 
 Can you give examples for other communities or projects that you are part and in what stage are you?
 
-How long did it take you to move from one state to another ?
+How long did it take you to move from one state to another?
+
 :::
 
 ::: footer
@@ -80,11 +82,8 @@ How long did it take you to move from one state to another ?
 
 ## CSCCE Community Participation Model {.winter}
 
-::: {.incremental}
 
-Where you would you put the Champions Program?
-
-:::
+* Where you would you put the Champions Program?
 
 
 ## CSCCE Community Participation Model
@@ -93,15 +92,56 @@ Champions program are usually in all the spectrum
 
 Examples of champion-ing activities
 
+::: {.incremental}
+
 * **Convey**: they post on social media to spread the word more widely
 
-* **Contribute**: they invite others to attend a local event;
+* **Contribute**: they invite others to attend a event;
 
 * **Collaborate**: they host a community call;
 
 * **Co-create**: they run trainings or other activities for others in the community
 
+:::
+
 ::: footer
 [CSCCE Community Participation Model](https://www.cscce.org/resources/cpm/) 
 :::
+
+## rOpenSci Examples
+
+* [rOpenSci Community Contributing Guide](https://contributing.ropensci.org): a guide to help people find ways to contribute to rOpenSci
+
+* [rOpenSci Blog Guide](https://blogguide.ropensci.org): a guide to help people to write and edit blog post for rOpenSci Blog.
+
+* [rOpenSci Packages: Development, Maintenance, and Peer Review](https://devguide.ropensci.org): guide for package authors, maintainers, reviewers and editors in rOpenSci software peer-review system
+
+* [rOpenSci Statistical Software Peer Review](https://stats-devguide.ropensci.org): documentation of rOpenSci’s project on expanding software peer review to include statistical software.
+
+## rOpenSci Examples {.winter}
+
+::: {.incremental}
+
+* Have you participate in any of this options?
+
+* Which one would you like to try?
+
+* You can use many of this options as your outreach activity for the Champions Program.
+
+* We would like to learn how we can improve this activities.
+
+* Spread the word about this options to people in your communities.
+
+::: 
+
+
+# How this concepts are useful for my package ?
+
+
+
+
+
+
+
+
 
