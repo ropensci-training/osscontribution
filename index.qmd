@@ -51,11 +51,11 @@ We have some models of participation
 
 ::: {.incremental}
 
-At what stage are you with rOpenSci?
+* At what stage are you with rOpenSci?
 
-Can you give examples for other communities or projects that you are part and in what stage are you?
+* Can you give examples for other communities or projects that you are part and in what stage are you?
 
-How long did it take you to move from one state to another?
+* How long did it take you to move from one state to another?
 
 :::
 
@@ -109,6 +109,8 @@ Examples of champion-ing activities
 
 ## rOpenSci Examples
 
+::: {.incremental}
+
 * [rOpenSci Community Contributing Guide](https://contributing.ropensci.org): a guide to help people find ways to contribute to rOpenSci
 
 * [rOpenSci Blog Guide](https://blogguide.ropensci.org): a guide to help people to write and edit blog post for rOpenSci Blog.
@@ -116,6 +118,8 @@ Examples of champion-ing activities
 * [rOpenSci Packages: Development, Maintenance, and Peer Review](https://devguide.ropensci.org): guide for package authors, maintainers, reviewers and editors in rOpenSci software peer-review system
 
 * [rOpenSci Statistical Software Peer Review](https://stats-devguide.ropensci.org): documentation of rOpenSci’s project on expanding software peer review to include statistical software.
+
+:::
 
 ## rOpenSci Examples {.winter}
 
@@ -138,13 +142,19 @@ Examples of champion-ing activities
 
 ## Convey
 
+::: {.incremental}
+
 * Create a comprehensive [README](https://blog.r-hub.io/2019/12/03/readmes/): clearly explains what your package does, how to install it, and how users can start using it. Include examples or use cases and (links to) any relevant information which might help users understand how your package can help them.
 
 * [Pin your package repository to your profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile) so other people can find it quickly.
 
 * [Create a universe on R-universe](https://ropensci.org/blog/2021/06/22/setup-runiverse/), simplify the installation of your package, and provide useful stats and information about it.
 
+:::
+
 ## Convey
+
+::: {.incremental}
 
 * We recommend creating a **documentation website** for your package using pkgdown. 
 
@@ -156,9 +166,13 @@ Examples of champion-ing activities
 
 * If your package fits in a [CRAN Task View](https://cran.r-project.org/web/views/) you can propose the addition.
 
-## Contribute
+:::
+
+## Contribute / Collaborate
 
 Make your repo contribution and collaboration friendly
+
+::: {.incremental}
 
 * Code of conduct (`CODE_OF_CONDUCT.md`): you can insert one with `use_code_of_conduct()` from the `usethis` package. The template comes from https://www.contributor-covenant.org.
 
@@ -166,9 +180,24 @@ Make your repo contribution and collaboration friendly
 
 * Contributing guide (`CONTRIBUTING.md`): an easy way to insert a template for a contributing guide is the `use_tidy_contributing()` from the `usethis` package.
 
+:::
+
+## Contribute / Collaborate {.winter}
+
+In groups use your package or the package we create in the other trainings and 
+
+* add a Code of Conduct.
+
+* add a Contributing Guide.
+
+Usethis helps: https://usethis.r-lib.org/reference/use_code_of_conduct.html
+
+
 ## Contributing guide
 
 Personal preferences in a contributing guide include:
+
+::: {.incremental}
 
 * Style preferences? 
 
@@ -182,5 +211,31 @@ Personal preferences in a contributing guide include:
 
 * We encourages contributing guides to include a [lifecycle statement clarifying visions and expectations](https://github.com/ecohealthalliance/fasterize/blob/main/CONTRIBUTING.md#roadmap) for the future development of your package.
 
+:::
+
 ## Issue management
+
+::: {.incremental}
+
+*  [Issue template(s)](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-templates=): help users fill better bug reports or feature requests.
+
+* [Issue labelling](https://help.github.com/articles/helping-new-contributors-find-your-project-with-labels/): use labels such as “help wanted” and “good first issue” to help potential collaborators, including newbies, find your repo. 
+
+* [Pinning issues](https://docs.github.com/en/articles/pinning-an-issue-to-your-repository): You can pin up to 3 issues by repository that will then appear at the top of your issue tracker as nice issue cards. It can help advertise what your priorities are.
+
+:::
+
+## Further resources: Collaborate / Co-create.
+
+::: {.incremental}
+
+* Dev Guide section on [Working with collaborators](https://devguide.ropensci.org/maintenance_collaboration.html#workingcollaborators)
+
+* Blog post [Marketing Ideas For Your Package](https://ropensci.org/blog/2024/03/07/package-marketing/)
+
+* rOpenSci community call [Set Up Your Package to Foster a Community](https://ropensci.org/commcalls/apr2021-pkg-community/).
+
+* For re-using kind and usual answers, consider GitHub’s [saved replies](https://docs.github.com/en/github/writing-on-github/working-with-saved-replies/using-saved-replies).
+
+:::
 
